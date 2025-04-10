@@ -42,7 +42,7 @@ Actively contributing to open-source projects on GitHub 🌐
 
 # 📩 Let’s Connect:
 
-LinkedIn: Aditya Verma
+LinkedIn: Aditya Verma Arjeyt RKO
 
 GitHub Repos: Explore my work below 👇
 
