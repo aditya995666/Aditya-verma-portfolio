@@ -40,12 +40,10 @@ Completed various AI/ML certifications 📜
 
 Actively contributing to open-source projects on GitHub 🌐
 
-# 
-📩 Let’s Connect:
+# 📩 Let’s Connect:
 
 LinkedIn: Aditya Verma
 
 GitHub Repos: Explore my work below 👇
 
 📧 Email: aditya.email@example.com
-
