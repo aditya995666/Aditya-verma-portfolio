@@ -47,7 +47,28 @@ My strong analytical mindset, consistent academic performance, and 💯% attenda
 - 📊 **Data Science** – InternForte  
 - 🧠 **Basic AI Generation** – Simplilearn  
 - 🛢️ **MySQL** – Infosys Springboard  
-- 🌱 **Spring Boot** – Infosys Springboard  
+- 🌱 **Spring Boot** – Infosys Springboard
+
+- ---
+
+## 💼 Internship Experience
+
+  🧠 **Machine Learning Intern** – InternForte  
+  🗓️ *Duration:* 5th October – 20th December  
+  📍 *Mode:* Remote  
+  🔍 *What I Did:*  
+  - Worked on real-world datasets and solved classification & regression problems  
+  - Hands-on experience with **scikit-learn**, **pandas**, **NumPy**, and **Matplotlib**  
+  - Built and evaluated models using techniques like **cross-validation**, **grid search**, and **feature engineering**
+
+ 🤖 **Machine Learning Intern** – InnoTrainee  
+ 🗓️ *Duration:* 3rd March – 3rd April  
+ 📍 *Mode:* Remote  
+🔍 *What I Did:*  
+  - Focused on supervised learning models like **Random Forest** and **SVM**  
+  - Implemented end-to-end ML pipelines from data preprocessing to deployment  
+  - Improved problem-solving skills by working on guided mini-projects and case studies
+
 
 ---
 
