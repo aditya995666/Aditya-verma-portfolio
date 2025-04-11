@@ -40,19 +40,28 @@ My strong analytical mindset, consistent academic performance, and 💯% attenda
 
 - **Programming Languages:** Python 🐍, SQL  
 - **Libraries & Frameworks:** scikit-learn 📊, TensorFlow, Keras, pandas, NumPy  
-- **Data Visualization:** Matplotlib 📈, Seaborn, Power BI  
-- **Tools & Platforms:** Jupyter Notebook 📓, GitHub, Kaggle, Docker 🐳  
+- **Data Visualization:** Matplotlib 📈, Seaborn
+- **Tools & Platforms:** Jupyter Notebook 📓, GitHub, Kaggle, Vscode,Pycharm  
 - **Deployment:**  Streamlit☁️  
 
 ---
 
 ## 🔧 Notable Projects
 
-- 🏠 **House Price Prediction**  
-- 📧 **Spam Detection**  
-- 💸 **Microfinance Institution Analysis**  
-- 🌱 **Mango Leaf Disease Detection using CNN** (*Research Paper*)  
+- 🏠 **House Price Prediction**
+  - 📌 Built a regression model to predict house prices based on 80+ features like area, location, quality, and amenities.
+  - 🛠️ Tools Used: Python, scikit-learn, pandas, matplotlib
+  - 📊 Achieved R² score of 0.92 with GradientBoostingRegressor
 
+- 📧 **Spam Detection**
+  - 📌 Binary classification model to detect spam messages using Natural Language Processing (NLP)
+  - 🛠️ Tools Used: scikit-learn, CountVectorizer, NLTK
+  - ✅ Accuracy: 96% | Techniques: Naive Bayes, SVM
+
+- 💸 **Microfinance Institution Analysis**
+  - 📌 Performed EDA and customer segmentation for a rural microfinance dataset to identify default risk
+  - 📈 Visualized patterns with seaborn and matplotlib | Used K-Means for clustering
+    
 ---
 
 ## 📜 Certifications
