@@ -19,7 +19,7 @@ Throughout my academic journey, I have worked on impactful projects like:
   Board: [Your Board Name – e.g., UP Board]  
   🏢 School: [Maharani Luxmi Bai Memorial Inter college]  
   🗓️ Year: [e.g., 2022]  
-  📊 Percentage: [e.g., 73.3]
+  📊 Percentage: [e.g., 73.3%]
 
 - 🏫 **Class 10th – General Subjects**  
   Board: [Your Board Name]  
@@ -61,7 +61,30 @@ My strong analytical mindset, consistent academic performance, and 💯% attenda
 - 💸 **Microfinance Institution Analysis**
   - 📌 Performed EDA and customer segmentation for a rural microfinance dataset to identify default risk
   - 📈 Visualized patterns with seaborn and matplotlib | Used K-Means for clustering
-    
+
+ ## 📁 More Projects
+
+- 🎬 **Movie Genre Classification**  
+  Multi-label text classification model using TF-IDF + Support Vector Machine (SVM) to predict genres based on movie descriptions.
+
+- 📉 **Customer Churn Prediction**  
+  Built a classification model to predict customer churn for a telecom company using RandomForest and Logistic Regression. Achieved 92% accuracy in identifying at-risk customers.
+
+- 🌡️ **Temperature Forecasting**  
+  Time series forecasting model to predict daily temperatures based on historical data using ARIMA and LSTM.
+
+- 🏛️ **Census Prediction**  
+  Analyzed census data to predict population density and socio-economic factors using machine learning techniques like KNN and Decision Trees.
+
+- 🎗️ **Breast Cancer Detection (RandomForest)**  
+  Developed a model to classify breast cancer cases as malignant or benign using RandomForestClassifier and achieved an accuracy of 98%.
+
+- 🚢 **Titanic Survival Prediction**  
+  Predict survival outcomes on the Titanic dataset using Logistic Regression, Decision Trees, and Random Forest. Achieved 80% accuracy.
+
+- 🐱🐶 **Cat vs Dog Image Classification**  
+  Used Convolutional Neural Networks (CNN) for image classification to distinguish between cats and dogs, achieving 94% accuracy.
+
 ---
 
 ## 📜 Certifications
@@ -98,9 +121,16 @@ My strong analytical mindset, consistent academic performance, and 💯% attenda
 
 ## 🎓 Academic Achievements
 
-- 🏅 Completed multiple AI/ML certifications (see above)  
+- 🏅 Completed multiple AI/ML certifications (see above)
+- 📈 10+ completed ML projects with high performance scores  
 - 📚 100% attendance and top performer in class  
-- 🌐 Active contributor to open-source projects on GitHub  
+- 🌐 Active contributor to open-source projects on GitHub
+
+-## 📚 Currently Learning
+
+- 🧠 Deep Learning with TensorFlow & Keras  
+- 🤖 Advanced NLP using HuggingFace Transformers  
+- 🔍 ML Model Optimization and Explainability (SHAP, LIME)  
 
 ---
 
