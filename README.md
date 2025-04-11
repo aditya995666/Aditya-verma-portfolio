@@ -10,7 +10,22 @@ Throughout my academic journey, I have worked on impactful projects like:
 💸 Microfinance Institution Analysis  
 📩 Spam vs. Not Spam Message Classification  
 
-I’ve also published a **research paper** on 🌱 *Mango Leaf Disease Detection* using **Convolutional Neural Networks (CNN)**.  
+## 🎓 Academic Achievements
+- 👨‍🎓 **B.Tech – Computer Science (Information Technology)**  
+  Ambalika Institute of Management and Technology  
+  📅 *2022 – 2026*
+
+- 🏫 **Class 12th – PCM (Science Stream)**  
+  Board: [Your Board Name – e.g., UP Board]  
+  🏢 School: [Maharani Luxmi Bai Memorial Inter college]  
+  🗓️ Year: [e.g., 2022]  
+  📊 Percentage: [e.g., 73.3]
+
+- 🏫 **Class 10th – General Subjects**  
+  Board: [Your Board Name]  
+  🏢 School: [Your School Name]  
+  🗓️ Year: [e.g., 2019]  
+  📊 Percentage: [e.g., 81%]
 
 I am skilled in:  
 🐍 Python, 📊 pandas, NumPy, scikit-learn, 📈 Matplotlib, Seaborn  
@@ -84,4 +99,5 @@ My strong analytical mindset, consistent academic performance, and 💯% attenda
 
 - 🔗 **LinkedIn:** [Aditya Verma Arjeyt RKO](https://linkedin.com/in/aditya-verma-89070724a)  
 - 💻 **GitHub Repos:** Explore my work below 👇  
-- 📧 **Email:** adityaverma1285515@gmail.com  
+- 📧 **Email:** adityaverma1285515@gmail.com
+- 🔗 **Kaggle Profile:**((https://www.kaggle.com/aditya9956))
